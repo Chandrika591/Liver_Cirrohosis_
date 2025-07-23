@@ -1,1 +1,1 @@
-
+template_of_the_project
